@@ -10,7 +10,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 
 int main()
 {
-    printf("%s\n", "Hello World!");
+    printf("%s\n", "Bye World!");
 
     return 0;
 }
